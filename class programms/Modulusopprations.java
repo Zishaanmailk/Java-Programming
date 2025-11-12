@@ -1,4 +1,4 @@
-public class Modulusex {
+public class Modulusopprations {
 
 	public static void main(String[] args) {
 
